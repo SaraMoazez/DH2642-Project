@@ -8,6 +8,8 @@ A dummy account that can be used to test the app is (do not use your real email 
 * Email: 1234@test.se
 * Password: 1234567890
 
+![alt text](https://github.com/SaraMoazez/DH2642-Project/blob/main/Homepage.png?raw=true)
+
 ### What we have done
 
 * We have created the full code and layout of the application, with a home page, navigation bar, login page, account creation page and profile page. The app is functional in that it can calculate the footprint between two given locations for different modes of travel.

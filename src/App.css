@@ -1,0 +1,69 @@
+.App {
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+}
+
+.App-logo {
+  width: 100vmin;
+  margin-top: 2vh;
+  pointer-events: none;
+  padding-right: 2vw;
+  padding-left: 2vw;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  min-height: 40vh;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  min-height: 40vh;
+  align-items: center;
+}
+
+.headerbar {
+  width: 100vw;
+  overflow: hidden;
+  background-color: #282c34;
+}
+
+.buttonstyle a{
+  background-color: hsl(138, 68%, 39%);
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 14px;
+  text-decoration: none;
+  border-radius: 10%;
+}
+
+.buttonstyle a:hover {
+  background-color: hsl(138, 68%, 45%);
+}
+
+.App-maincontent {
+  font-size: calc(10px + 2vmin);
+  color: #282c34;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.createAccountButton{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+

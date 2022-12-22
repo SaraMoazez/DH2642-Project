@@ -9,6 +9,8 @@ A dummy account that can be used to test the app is (do not use your real email 
 * Password: 1234567890
 
 ![alt text](https://github.com/SaraMoazez/DH2642-Project/blob/main/Homepage.png?raw=true)
+![alt text](https://github.com/SaraMoazez/DH2642-Project/blob/main/resultPage.png?raw=true)
+![alt text](https://github.com/SaraMoazez/DH2642-Project/blob/main/profilepage.png?raw=true)
 
 ### What we have done
 
